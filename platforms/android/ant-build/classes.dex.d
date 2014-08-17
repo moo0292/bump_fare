@@ -1,0 +1,25 @@
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes.dex : \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/BuildConfig.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/bump_fare.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$array.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$attr.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$color.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$dimen.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$drawable.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$id.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$layout.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$menu.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$raw.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$string.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R$xml.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/ionicframework/bumpfare197374/R.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/com/phonegap/plugins/barcodescanner/BarcodeScanner.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/org/apache/cordova/camera/CameraLauncher.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/org/apache/cordova/camera/ExifHelper.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/org/apache/cordova/camera/FileHelper.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/dexedLibs/classes-bd95c079ace6fc1d947b28609f4d5595.jar \
+/Users/kittitatrodchaidee/Desktop/women_health_hackathon/bump_fare/platforms/android/ant-build/dexedLibs/com.google.zxing.client.android.captureactivity-e3db312c7a905bae02d0ed7e4c11dc17.jar \

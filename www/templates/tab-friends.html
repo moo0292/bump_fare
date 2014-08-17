@@ -1,0 +1,85 @@
+<ion-view title="Meal Search">
+    <ion-content class="purple_background" ng-controller="searchCtrl">
+        <!-- This is the search function -->
+        <!-- <div class="item item-input-inset">
+            <label class="item-input-wrapper">
+                <input type="text" placeholder="Enter in the food here">
+            </label>
+            <button class="button button-small">
+                Submit
+            </button>
+        </div>
+ -->
+        <!-- List of items here -->
+
+        <!-- <accordion class="acc_header_custom" close-others="true">
+            <accordion-group class="acc_custom" is-open="isopen" ng-repeat="item in items">
+                <accordion-heading>
+                    {{item.desc}} - {{isopen}}
+                    <i class="ion-chevron-down"></i>
+                </accordion-heading>
+
+                <div ng-repeat="subitem in item.subitems">{{subitem.desc}}</div>
+            </accordion-group>
+        </accordion> -->
+
+        <label class="item item_input">
+            <input type="text" placeholder="Search" class="float-left">
+        </label>
+
+        <label class="item item_input_list">
+            <div class="red_border float-left">
+                <i class="icon ion-information large-danger"></i>
+            </div>
+            <p class="float-left item-name">Doritos</p>
+            <i class="icon ion-shuffle float-left large-shuffle-white"></i>
+            <i class="icon ion-plus-round float-left large-plus-white"></i>
+        </label>
+
+        <label class="item item_input_list">
+            <div class="green_border float-left">
+                <i class="icon ion-information large-danger"></i>
+            </div>
+            <p class="float-left item-name">Doritos</p>
+            <i class="icon ion-shuffle float-left large-shuffle-white"></i>
+            <i class="icon ion-plus-round float-left large-plus-white"></i>
+        </label>
+
+        <!--         <ul class="list" ng-repeat="item in test_array">
+            <li class="item">
+                <div class="row">
+                    <div class="float-left">
+                        <p class="item-title">Test object</p>
+                    </div>
+                    <div class="float-left">
+                        <button class="button button-positive">
+                            Good
+                        </button>
+                    </div>
+                    <div class="float-left">
+                        <a class="button ion-chevron-down button-calm" ng-click="toggleGroup(item)">Pros/Cons</a>
+                        <i class="icon-right"></i>
+                    </div>
+                    <div class="float-left">
+                        <a class="button ion-chevron-down button-calm" ng-click="showAlternatives()">Alternative</a>
+                        <i class="icon-right"></i>
+                    </div>
+                    <div class="float-left">
+                        <a class="button ">+</a>
+                    </div>
+                    <p>{{$index}}</p>
+                </div>
+                <div class="drop-box" ng-show="isGroupShown(item)">
+                    <div ng-if="title == 'pAndC'">
+                        <h1>This is the pros and cons</h1>
+                        <p>This is the object</p>
+                    </div>
+                    <div ng-if="title == 'alternatives'">
+                        <h1>This is the alternatives</h1>
+                        <p>This is the object</p>
+                    </div ng-if="">
+                </div>
+            </li>
+        </ul> -->
+    </ion-content>
+</ion-view>
